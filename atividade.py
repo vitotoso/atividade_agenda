@@ -16,6 +16,3 @@ if escolha == 1:
     numero = int(input("Digite o noem do contato: "))
     email = str(input("Digite o noem do contato: "))
     cadastrar_contato(contatos,nome,numero,email)
-
-elif escolha == 2:
-    nome = str(input("Digite o noem do contato: "))
